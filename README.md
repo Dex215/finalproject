@@ -1,3 +1,6 @@
+HOW TO RUN CODE: open .jucer file in projucer and place finalproject folder in JUCE folder. Make sure to specify path to modules.
+HOW TO USE PLUGIN: Put .vst3 file in your Plugin folder and open in DAW of choice
+
 Despite the many challenges, I had a lot of fun on this project and it had many great learning oppertunities. I had never used C++
 before so I had to spend a lot of time learning how it worked and the header file and cpp file thing confused me at first. What I enjoyed
 most about it is once I finaly got the fuzz working it was such a feeling of accomplishment. I watched JUCE tutorials to help me 
