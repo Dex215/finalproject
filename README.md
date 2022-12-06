@@ -15,7 +15,9 @@ line of code.
 The biggest challange for me was making the sliders actually connect with the values in the plugin processor. I watchd tutorials over and
 over and wrote down everything they did until I figured out how to do it for both sliders.
 
-The only thing I didn't accomplish with this project that I wanted to was to add a tone knob to it.
+The only thing I didn't accomplish with this project that I wanted to was to add a tone knob to it. Adding this feature stumped me because
+in order to make it I had to use the dsp module which I took a lot of time to familiarize myself with but was unable to add a tone knob.
+Over winter break I hope to add one as a passion project because I think I am getting close to implementing one.
 
 Presentation: https://youtu.be/eFBAU8Y_iTA
 Demo in song: https://youtu.be/YCGzz03Gmnk
